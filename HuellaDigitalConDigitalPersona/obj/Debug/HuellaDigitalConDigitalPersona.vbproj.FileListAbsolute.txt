@@ -20,3 +20,26 @@ E:\Desarrollo ExxonMobil\HuellaDigitalConDigitalPersona\HuellaDigitalConDigitalP
 E:\Desarrollo ExxonMobil\HuellaDigitalConDigitalPersona\HuellaDigitalConDigitalPersona\HuellaDigitalConDigitalPersona\bin\Debug\MySql.Data.dll
 E:\Desarrollo ExxonMobil\HuellaDigitalConDigitalPersona\HuellaDigitalConDigitalPersona\HuellaDigitalConDigitalPersona\bin\Debug\MySql.Data.xml
 E:\Desarrollo ExxonMobil\HuellaDigitalConDigitalPersona\HuellaDigitalConDigitalPersona\HuellaDigitalConDigitalPersona\obj\Debug\HuellaDigitalConDigitalPersona.Form2.resources
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\bin\Debug\HuellaDigitalConDigitalPersona.exe.config
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\bin\Debug\HuellaDigitalConDigitalPersona.exe
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\bin\Debug\HuellaDigitalConDigitalPersona.pdb
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\bin\Debug\HuellaDigitalConDigitalPersona.xml
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\bin\Debug\MySql.Data.dll
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\bin\Debug\MySql.Data.xml
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\obj\Debug\HuellaDigitalConDigitalPersona.vbprojResolveAssemblyReference.cache
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\obj\Debug\HuellaDigitalConDigitalPersona.Form1.resources
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\obj\Debug\HuellaDigitalConDigitalPersona.Form2.resources
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\obj\Debug\HuellaDigitalConDigitalPersona.Resources.resources
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\obj\Debug\HuellaDigitalConDigitalPersona.vbproj.GenerateResource.Cache
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\obj\Debug\HuellaDigitalConDigitalPersona.vbproj.CoreCompileInputs.cache
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\obj\Debug\HuellaDigitalConDigitalPersona.exe
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\obj\Debug\HuellaDigitalConDigitalPersona.xml
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\obj\Debug\HuellaDigitalConDigitalPersona.pdb
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\bin\Debug\DPFPDevNET.dll
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\bin\Debug\DPFPEngNET.dll
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\bin\Debug\DPFPGuiNET.dll
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\bin\Debug\DPFPShrNET.dll
+C:\Users\IDETECO\source\repos\HuellaDP\HuellaDigitalConDigitalPersona\bin\Debug\DPFPVerNET.dll
